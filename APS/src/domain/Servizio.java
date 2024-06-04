@@ -8,7 +8,7 @@ public class Servizio extends Risorsa{
 	private DateTime dataFine;
 	
 	public Servizio() {
-		
+		super();
 	}
 	
 	public void setCosto(double costo) {
