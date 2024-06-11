@@ -1,0 +1,1 @@
+sono state inserite più classi del dominio per rispettare una completezza e una coerenza per quanto riguarda l'ereditarietà e le chiamate all'interno dei metodi

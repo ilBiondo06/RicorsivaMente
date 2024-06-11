@@ -4,7 +4,7 @@ public class Risorsa implements IRisorsa{
 
 	private int id;
 	
-	public void selezionaRisorsa() {
+	public Risorsa selezionaRisorsa(int id) {
 		
 	}
 	
